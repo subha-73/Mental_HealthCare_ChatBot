@@ -31,7 +31,7 @@ Ensure you have the following installed:
 ### Installation
 
 1. **Clone the repository:**
-   - git clone https://github.com/Sowmiyahub/Mental_HealthCare_ChatBot.git
+   - git clone https://github.com/subha-73/Mental_HealthCare_ChatBot-main.git
    - cd Mental_HealthCare_ChatBot/Python-Mental-Health-Chatbot-main
 2. **Install dependencies:**
    - pip install -r requirements.txt
@@ -101,4 +101,4 @@ Ensure you have the following installed:
 ## Contributing
 Contributions are welcome! Please fork the repository and submit a pull request for any enhancements or bug fixes.
 ## Contact
-For any inquiries or feedback, please contact sowmiyadasa2004@example.com.
+For any inquiries or feedback, please contact subhageethask@gmail.com.
