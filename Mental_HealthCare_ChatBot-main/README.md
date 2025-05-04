@@ -31,7 +31,7 @@ Ensure you have the following installed:
 ### Installation
 
 1. **Clone the repository:**
-   - git clone https://github.com/subha-73/Mental_HealthCare_ChatBot-main.git
+   - git clone https://github.com/subha-73/Mental_HealthCare_ChatBot.git
    - cd Mental_HealthCare_ChatBot/Python-Mental-Health-Chatbot-main
 2. **Install dependencies:**
    - pip install -r requirements.txt
