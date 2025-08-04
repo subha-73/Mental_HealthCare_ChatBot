@@ -17,7 +17,7 @@ nltk.download("wordnet")
 lemmatizer = WordNetLemmatizer()
 
 # load intents
-with open(r"C:\Users\Sowmi\Downloads\Python-Mental-Health-Chatbot-main\Python-Mental-Health-Chatbot-main\ChatbotWebsite\static\data\intents.json") as file:
+with open(r"C:\Users\SK\Downloads\Python-Mental-Health-Chatbot-main\Python-Mental-Health-Chatbot-main\ChatbotWebsite\static\data\intents.json") as file:
     intents = json.load(file)
 
 try:  # load saved model if existed
